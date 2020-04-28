@@ -396,7 +396,9 @@ def main():
     t.write('Thanks for viewing...',font=('Arial',16,'italic'))
 
 
-main()```
+main()
+```
+
 
 ---
 
