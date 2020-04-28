@@ -18,4 +18,4 @@
 
 > [VIEW RESUME](resume-online.md)
 
-> [PERSONAL GOALS](https://github.com/b1ackkwid0w/it1040-2020/goals.md)
+> [MY GOALS](goals.md)
