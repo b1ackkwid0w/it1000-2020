@@ -31,9 +31,9 @@
 
     1. create a music visualization program 
     
-    2. learn to take better photographs
+    2. learn to take better photos
     
-    3. play a high C on the horn - *again*
+    3. draw those better photos that I take on vacation
     
 ---
 
