@@ -266,7 +266,7 @@ main()
 
 ```
 
-<html><button onclick="topFunction()" title="BACK TO TOP">Top</button></html>
+<html><a name="#top"><button>BACK TO TOP</button></a></html>
 
 ---
 
