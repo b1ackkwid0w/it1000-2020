@@ -20,15 +20,16 @@
 Education
 ---------
 
-* _2020-2022 (expected)_
+_2020-2022 (expected)_
 
-    * **BSc, Information Technology**; University of Missouri (Columbia)
+   * **BSc, Information Technology**; University of Missouri (Columbia)
 
 
 Experience
 ----------
 
-_2013-present_     
+_2013-present_  
+
 * **Business Owner:**
 
     * local housekeeping business
