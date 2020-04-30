@@ -266,7 +266,7 @@ main()
 
 ```
 
-[return to TOP]{#### _Information Technology student_)
+<html><button onclick="topFunction()" title="BACK TO TOP">Top</button></html>
 
 ---
 
