@@ -267,7 +267,7 @@ main()
 
 ```
 
-<html><a name="#top"><button>BACK TO TOP</button></a></html>
+<html><a href="#top">back to top</a></html>
 
 ---
 
