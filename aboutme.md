@@ -26,7 +26,7 @@ I am so excited to learn more about information technologies and continue to dev
 
 * [PROJECTS](projects.md)
 
-* [PERSONAL GOALS](goals.md)
+* [MY GOALS](goals.md)
 
 ---
 
