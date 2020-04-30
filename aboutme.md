@@ -10,7 +10,7 @@
 
 Hello, my name is Amy Snell. I am currently an Information Technology student at [University of Missouri-Columbia](www.mizzou.edu). I am excited to return to college and make a drastic career change from self-employed housekeeper to software engineer. I live in Centralia, Missouri with my husband, and my cat, [Cinnamon](cinnamon.md). She is a very good cat, but seems disinterested in coding. Not unlike my husband!
 
-I am from mid-Missouri and I have lived here all my life. I went to school at Missouri State University after high school and studied Music Education. Although I did not pursue a career in music, I still play the French horn in community groups around central Missouri. I am quite passionate about music and I'm always looking for new ways to bring music to the community. Here's some links to a few of the groups I play in:
+I am from mid-Missouri and I have lived here all my life. I went to school at Missouri State University after high school and studied Music Education. Although I did not pursue a career in music, I still play the French horn in community groups around central Missouri. I am quite passionate about music and I'm always looking for new ways to bring more to the community. Here's some links to a few of the groups I play in:
 
 * [Mid-Missouri Community Orchestra](https://music.missouri.edu/cmp/mid-missouri-community-orchestra-mmco)
 
