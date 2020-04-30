@@ -24,7 +24,7 @@
     
     2. play a solo concert for charity
     
-    3. make fudge from scratch - that's also _edible_
+    3. make fudge from scratch - that's also *edible*
     
 **My Artistic Goals**
 
@@ -32,7 +32,7 @@
     
     2. learn to take better photographs
     
-    3. play a high C on the horn - _again_
+    3. play a high C on the horn - *again*
     
 ---
 
@@ -40,7 +40,7 @@
 
 <html><img src="https://user-images.githubusercontent.com/60243135/80469346-0d0d3580-8906-11ea-9380-5d2584782d5f.jpg" alt="a photo of me with the Pennsylvania state sign" style="width 400px,height 300px"></html>
 
-##### _and here's where I was hoping to go over Spring Break before the pandemic :(
+##### _and here's where I was hoping to go soon before the stupid pandemic :(
 
 <html><img src="https://cdn.pixabay.com/photo/2016/11/29/07/59/architecture-1868265_960_720.jpg" alt="a photo of me with the Pennsylvania state sign" style="width 400px,height 300px"></html>
 
