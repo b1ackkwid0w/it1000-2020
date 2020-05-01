@@ -40,13 +40,6 @@ _2008-2012_
 
     * supervisor at client site, Securitas Security Services
 
-Technical Experience
---------------------
-
-* Programming Languages
-
-    * Basic knowledge of **Markdown**, **HTML**, **Python**
-
 
 Volunteer Experience
 ----------------------------------------
