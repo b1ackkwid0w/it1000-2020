@@ -8,7 +8,7 @@
 
 ---
 
-<html><img src="https://user-images.githubusercontent.com/60243135/80452754-8861ed80-88ec-11ea-809a-ebff9864df34.jpg" alt="Photo of Amy Snell" style="width:300px;height:375px;border:10px outset silver"></html>
+<html><img align="left" width="300" height="400" src="https://user-images.githubusercontent.com/60243135/80452754-8861ed80-88ec-11ea-809a-ebff9864df34.jpg" alt="Photo of Amy Snell"></html>
 
 
 
