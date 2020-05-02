@@ -13,7 +13,7 @@
 
 > [amyasnell@mail.missouri.edu](mailto:amyasnell@mail.missouri.edu)
 
-> <html><a href"www.linkedin.com/in/amy-a-snell-485434193">Linked-In profile</a></html>
+> <a href="www.linkedin.com/in/amy-a-snell-485434193">Linked-In profile</a>
 
 
 
