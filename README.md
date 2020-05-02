@@ -8,7 +8,11 @@
 
 ---
 
-<html><img style="border:10px outset silver;" src="https://user-images.githubusercontent.com/60243135/80452754-8861ed80-88ec-11ea-809a-ebff9864df34.jpg" align="left" width="310" height="400" alt="Photo of Amy Snell"></html>
+<html><img src="https://user-images.githubusercontent.com/60243135/80452754-8861ed80-88ec-11ea-809a-ebff9864df34.jpg" align="left" width="310" height="400" alt="Photo of Amy Snell"></html>
+
+
+
+
 
 > [CURRENT PROJECTS](projects.md)
 
