@@ -12,7 +12,10 @@
 
 I LOVE to travel!!
 
-<iframe="https://www.google.com/maps/d/u/0/embed?mid=1PCXKAa9ADAUW6e_6sc4Z0WvDfQg9o-BJ" width="640" height="480"></iframe>
+
+<figure class="video_container">
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PCXKAa9ADAUW6e_6sc4Z0WvDfQg9o-BJ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 
