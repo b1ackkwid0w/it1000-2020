@@ -14,6 +14,10 @@ I LOVE to travel!!
 
 <html
 <figure class="video_container">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PCXKAa9ADAUW6e_6sc4Z0WvDfQg9o-BJ" style="width=640px,height 480px"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PCXKAa9ADAUW6e_6sc4Z0WvDfQg9o-BJ"></iframe>
 </figure>
 </html>
+
+
+
+
