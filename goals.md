@@ -25,7 +25,7 @@
     
     2. play a solo concert for charity
     
-    3. make fudge from scratch - that's also *edible*
+    3. make fudge from scratch (that's also edible)
     
 **My Artistic Goals**
 
