@@ -9,7 +9,7 @@
 ---
 
      
-> Centralia, Missouri
+> [Centralia, Missouri](https://www.centraliamo.org/)
 
 > [amyasnell@mail.missouri.edu](mailto:amyasnell@mail.missouri.edu)
 
@@ -41,8 +41,8 @@ _2008-2012_
     * supervisor at client site, Securitas Security Services
 
 
-Volunteer Experience
-----------------------------------------
+Volunteer Work
+--------------
 
 * Charity:
 
