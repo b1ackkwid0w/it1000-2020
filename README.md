@@ -23,3 +23,5 @@
 > [MY GOALS](goals.md)
 
 > [MY TRAVEL MAP](travel_map.md)
+
+> [MY CAT, CINNAMON](Cinnamon.md)
