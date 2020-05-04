@@ -8,7 +8,7 @@
 
 ---
 
-I'm not sure you can have a page, and not post photos of your cat, so here they are:
+##### _I'm not sure you can have a page, and not post photos of your cat, so here they are:_
 
 ![a photo of my cat Cinnamon](https://user-images.githubusercontent.com/60243135/80474823-8f4d2800-890d-11ea-89e1-4e1b65f9ceb0.jpg)
 
