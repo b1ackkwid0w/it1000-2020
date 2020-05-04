@@ -14,12 +14,12 @@
 
 
 
-> [CURRENT PROJECTS](projects.md)
+> **[CURRENT PROJECTS](projects.md)**
 
-> [ABOUT ME](aboutme.md)
+> **[ABOUT ME](aboutme.md)**
 
-> [VIEW RESUME](resume-online.md)
+> **[VIEW RESUME](resume-online.md)**
 
-> [MY GOALS](goals.md)
+> **[MY GOALS](goals.md)**
 
-> [MY TRAVEL MAP](travel_map.md)
+> **[MY TRAVEL MAP](travel_map.md)**
