@@ -24,4 +24,4 @@
 
 > [MY TRAVEL MAP](travel_map.md)
 
-> [MY CAT, CINNAMON](Cinnamon.md)
+> [MY CAT, CINNAMON](cinnamon.md)
